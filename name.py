@@ -1,0 +1,8 @@
+print("baraa")
+print("software engineering")
+print("1")
+print("nour")
+print("doctor")
+print("3")
+print("mona")
+print("accounting")
